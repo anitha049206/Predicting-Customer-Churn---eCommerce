@@ -1,2 +1,2 @@
-# Predicting-Customer-Churn---eCommerce
+# Predicting Customer Churn - eCommerce
 In this project, we develop a predictive model to determine whether a customer is likely to churn based on various usage parameters from an e-commerce platform.In today’s digital landscape, online shopping offers convenience, speed, and affordability, leading to intense competition among providers within the same product categories. This makes customer satisfaction critical, as dissatisfied customers are likely to churn, leading to potential revenue loss for the company. By identifying key factors that drive churn, we can help businesses retain customers and enhance their competitive edge.
